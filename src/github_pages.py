@@ -20,22 +20,34 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <style>
         body { font-family: 'Segoe UI', sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f5f5f5; }
         h1 { color: #333; border-bottom: 2px solid #007bff; padding-bottom: 10px; }
-        .date { color: #666; font-size: 0.9em; }
+        .meta { color: #666; font-size: 0.9em; margin-bottom: 20px; }
+        .time-range { display: inline-block; background: #007bff; color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.85em; margin-top: 5px; }
         .article { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         .article h2 { margin: 0 0 8px 0; font-size: 1.1em; }
         .article h2 a { color: #007bff; text-decoration: none; }
         .article h2 a:hover { text-decoration: underline; }
-        .article p { color: #555; margin: 0; line-height: 1.5; }
+        .article .article-meta { color: #888; font-size: 0.85em; margin-bottom: 8px; }
+        .article .article-meta span { margin-right: 12px; }
+        .article .summary { color: #555; margin: 0; line-height: 1.6; white-space: pre-line; }
         footer { text-align: center; color: #999; margin-top: 30px; font-size: 0.8em; }
     </style>
 </head>
 <body>
     <h1>{{ keywords }} 뉴스</h1>
-    <p class="date">{{ date }}</p>
+    <div class="meta">
+        <div>{{ date }}</div>
+        {% if time_range %}
+        <span class="time-range">{{ time_range }}</span>
+        {% endif %}
+    </div>
     {% for article in articles %}
     <div class="article">
         <h2><a href="{{ article.url }}" target="_blank">{{ article.title }}</a></h2>
-        <p>{{ article.summary }}</p>
+        <div class="article-meta">
+            {% if article.source %}<span>📌 {{ article.source }}</span>{% endif %}
+            {% if article.published %}<span>🕐 {{ article.published }}</span>{% endif %}
+        </div>
+        <p class="summary">{{ article.summary }}</p>
     </div>
     {% endfor %}
     <footer>자동 생성 by MOIP News Bot</footer>
@@ -69,7 +81,9 @@ def git_push(repo_path, date):
         ["git", "push", "origin", GITHUB_BRANCH],
     ]
     for cmd in commands:
-        result = subprocess.run(cmd, cwd=repo_path, capture_output=True, text=True)
+        result = subprocess.run(
+            cmd, cwd=repo_path, capture_output=True, text=True, encoding="utf-8"
+        )
         if result.returncode != 0 and "nothing to commit" not in result.stderr:
             print(f"Git 명령 실패: {' '.join(cmd)}")
             print(result.stderr)
