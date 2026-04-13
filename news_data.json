@@ -1,112 +1,63 @@
 {
-  "date": "2026-04-07",
-  "time_range": "4/4(금) 18:00 이후",
-  "keywords": "MOIP(지식재산처) 및 지식재산 전반",
+  "date": "2026-04-13",
+  "time_range": "4/10(금) 00:00 이후",
+  "keywords": "지식재산처, 특허, 상표, 디자인권, PCT, 특허침해, 발명, 지식재산 정책, 영업비밀, AI 특허, 반도체 특허, 바이오 특허, 표준특허, SEP, FRAND, Easy 특허정보 Agent, IP 정책 토론회",
   "articles": [
     {
-      "title": "기업의 특허 문제, 대학생의 생각으로 해결한다!",
-      "url": "https://www.moip.go.kr/ko/kpoBultnDetail.do?menuCd=SCD0200618&ntatcSeq=20841&aprchId=BUT0000029&sysCd=SCD02",
-      "source": "지식재산처 보도자료",
-      "published": "2026-04-06",
-      "summary": "지식재산처가 제19회 캠퍼스 특허 유니버시아드 참가자를 5월 28일까지 모집한다.\n삼성전자, 현대자동차 등 24개 기업·연구기관이 이차전지, AI, 차세대 모빌리티 등 25개 문제를 출제했다.\n대학(원)생이 특허 빅데이터를 분석하여 사업화 전략을 제시하는 방식이며,\n대통령상(2,000만원) 포함 총 108명을 시상할 예정이다."
+      "title": "지식재산처·과기부, AI 기반 'Easy 특허정보 Agent 모델' 2차년도 착수보고회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156753944",
+      "source": "대한민국 정책브리핑",
+      "published": "2026-04-10 10:00",
+      "summary": "지식재산처와 과학기술정보통신부가 10일 정부대전청사에서 'Easy 특허정보 Agent 모델 개발사업' 2차년도 착수보고회를 개최했다. 이 사업은 과기부 '공공 AI 전환(AX) 프로젝트'의 일환으로, AI 지능형 비서(Agent)를 활용해 일반 국민도 특허 문서를 쉽게 이해하고 유사 기술을 검색할 수 있도록 하는 서비스를 개발한다. 올해는 Agent 모델 기능을 확대해 특허정보검색서비스(KIPRIS)에 적용할 예정이다."
     },
     {
-      "title": "감성과 혁신이 만나는 무대, 여성발명왕EXPO 주인공을 찾습니다!",
-      "url": "https://www.moip.go.kr/ko/kpoBultnDetail.do?menuCd=SCD0200618&ntatcSeq=20840&aprchId=BUT0000029&sysCd=SCD02",
-      "source": "지식재산처 보도자료",
-      "published": "2026-04-06",
-      "summary": "지식재산처와 한국여성발명협회가 2026 여성발명왕EXPO 참가기업을 4월 6일~5월 18일까지 모집한다.\n7월 16~18일 코엑스에서 개최되며, 세계여성발명대회와 여성발명품박람회가 통합된 발명 축제이다.\n참가기업에 판로 개척, 유통상담, 홍보 지원 등을 제공하며,\n산업재산권을 출원·등록한 여성이 대표 또는 임원인 기업이 신청 가능하다."
+      "title": "지식재산처, 박현희 첫 여성 기획조정관 임명",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156753914",
+      "source": "대한민국 정책브리핑",
+      "published": "2026-04-10 09:00",
+      "summary": "지식재산처가 박현희 기획재정담당관을 기획조정관으로 임명했다. 지식재산처(구 특허청) 역사상 첫 여성 기획조정관으로, 조직 내 성별 다양성 확대의 상징적 인사로 평가된다. 기획조정관은 지식재산처의 주요 정책 기획과 예산 조율을 총괄하는 핵심 직위이다."
     },
     {
-      "title": "연구자가 제안하는 '지식재산처 기술 공연' 시작한다",
-      "url": "https://www.moip.go.kr/ko/kpoBultnDetail.do?menuCd=SCD0200618&ntatcSeq=20839&aprchId=BUT0000029&sysCd=SCD02",
-      "source": "지식재산처 보도자료",
-      "published": "2026-04-06",
-      "summary": "지식재산처가 4월 6일~5월 31일까지 'MOIP Tech Concert' 참여 연구자를 모집한다.\n기업·연구소 개발자가 자신의 기술을 특허심사관과 직접 공유하는 현장 발표회이다.\n연구자와 특허심사관 간 양방향 소통을 목적으로 설계되었으며,\n국내외 누구나 네이버폼이나 이메일(techconcert@korea.kr)로 신청 가능하다."
+      "title": "인공지능 시대, '지식재산의 미래'를 묻다…지재위, 제2차 IP 정책 공개 토론회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156753892",
+      "source": "대한민국 정책브리핑",
+      "published": "2026-04-10 11:00",
+      "summary": "국가지식재산위원회가 '인공지능 시대의 지식재산 미래'를 주제로 제2차 IP 정책 공개 토론회를 개최했다. AI 학습용 데이터의 공정이용 범위, 지식재산 소송 관할 집중화 입법 동향 등이 핵심 논의 주제로 다뤄졌다. 산·학·연·관 전문가들이 참여해 AI 시대에 맞는 지식재산 제도 혁신 방향을 모색했다."
     },
     {
-      "title": "USPTO 국장 \"AI가 특허 적체 해소할 것\"… 심사 효율화 추진",
-      "url": "https://www.mlex.com/mlex/intellectual-property/articles/2461336",
-      "source": "MLex",
-      "published": "2026-04-04",
-      "summary": "미국 특허상표청(USPTO) 존 스콰이어스 국장이 AI가 인간의 감독 하에 특허 적체를 대폭 줄일 것이라고 밝혔다.\nUSPTO는 AI를 활용한 특허 심사 효율화를 적극 추진하고 있으며,\n2025년 9월 취임 이후 AI 관련 특허 출원 정책에 변화를 시행 중이다.\n특허 적격성 분석에서 AI 발명에 대한 가이던스도 확대되고 있다."
+      "title": "관세청, 제3회 보세판매장 특허심사위원회 결과 발표…경복궁면세점 특허 5년 갱신",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156753846",
+      "source": "대한민국 정책브리핑",
+      "published": "2026-04-10 14:00",
+      "summary": "관세청이 4월 8일 개최한 제3회 보세판매장 특허심사위원회 결과를 발표했다. 인천공항 제1여객터미널 입국장면세점을 운영 중인 경복궁면세점이 총점 1천점 중 835.24점을 획득해 특허 갱신이 승인됐다. 이에 따라 경복궁면세점은 향후 5년간 안정적으로 입국장면세점을 운영할 수 있게 됐다."
     },
     {
-      "title": "Adeia, DISH Network 상대 특허 침해 소송 제기… 미디어 IP 분쟁 확대",
-      "url": "https://www.globenewswire.com/news-release/2026/04/01/3266586/0/en/Adeia-Announces-Patent-Infringement-Litigation-Against-DISH-Network-Reiterates-Full-2026-Outlook.html",
-      "source": "GlobeNewsWire",
-      "published": "2026-04-04",
-      "summary": "미디어 IP 기업 Adeia가 미국 콜로라도 연방법원에서 DISH Network를 상대로 특허 침해 소송을 제기했다.\n핵심 미디어·유료TV 기술과 관련된 5개 특허가 침해되었다고 주장하고 있다.\nDISH는 이에 맞서 캘리포니아 연방법원에 확인소송(declaratory action)을 제기했으며,\nAdeia는 2026년 실적 전망을 기존 가이던스대로 유지한다고 밝혔다."
+      "title": "\"특허도 AI가 쉽게 풀어준다\"…Easy 특허정보 Agent, 국민 접근성 혁신 신호탄",
+      "url": "https://www.heartdayrest.com/news/480292",
+      "source": "온쉼표저널",
+      "published": "2026-04-10 15:30",
+      "summary": "지식재산처가 AI 기반 'Easy 특허정보 Agent' 서비스를 통해 특허 정보의 대국민 접근성을 획기적으로 개선한다. 기존에 전문가 위주로 활용되던 특허 문서를 AI 지능형 비서가 사용자 수준에 맞춰 쉽게 설명해주고, 대화형으로 유사 기술 탐색까지 가능하게 한다. 특허정보검색서비스(KIPRIS)에 적용될 예정이며, 국민 누구나 특허 정보를 쉽게 활용할 수 있는 환경이 조성될 전망이다."
     },
     {
-      "title": "2026년 미국 특허소송 급증 전망… PTAB 변화가 핵심 원인",
-      "url": "https://www.worldipreview.com/patent/why-the-us-is-poised-for-a-patent-litigation-surge-in-2026",
-      "source": "World IP Review",
-      "published": "2026-04-05",
-      "summary": "2026년 미국에서 특허소송 건수가 급증할 것으로 전망된다.\nUSPTO 특허심판항소위원회(PTAB)의 정책 변화로 행정절차를 통한 특허 무효화가 어려워졌기 때문이다.\n특허권자의 소송 제기가 유리해지면서 NPE(특허 비실시 주체)들의 활동도 활발해질 것으로 예상되며,\n영업비밀 분쟁도 증가할 것으로 분석된다."
+      "title": "어려운 특허정보 활용, AI 비서가 함께 한다",
+      "url": "https://biz.heraldcorp.com/article/10714160",
+      "source": "헤럴드경제",
+      "published": "2026-04-10 12:00",
+      "summary": "지식재산처와 과학기술정보통신부가 AI Agent 기반 특허정보 서비스 고도화에 본격 나섰다. 'Easy 특허정보 Agent 모델 개발사업'은 복잡한 특허 문서를 AI가 요약·분석해 일반인도 이해할 수 있도록 돕는 서비스다. 1차년도에 특허 문서 요약 및 챗봇 기반 설명 기능을 구현했으며, 2차년도에는 기능을 확대해 KIPRIS에 적용할 계획이다."
     },
     {
-      "title": "독일 연방대법원, SEP 소송에서 FRAND 방어 기준 명확화",
+      "title": "독일 연방대법원, SEP 소송에서 FRAND 방어 기준 명확화…HMD Global 패소 확정",
       "url": "https://www.concurrences.com/en/bulletin/news-issues/april-2026-i/the-german-federal-court-of-justice-clarifies-frand-defence-and-rejects-strict",
       "source": "Concurrences",
-      "published": "2026-04-04",
-      "summary": "독일 연방대법원이 VoiceAge v. HMD Global 사건에서 표준필수특허(SEP) FRAND 방어 기준을 명확히 했다.\nHMD Global이 라이선스 취득 의사가 부족하다고 판단하여 뮌헨 고등법원 판단을 지지했다.\nEU 사법재판소의 SEP 프레임워크를 엄격하게 순차 적용하는 것을 거부했으며,\n글로벌 표준특허 라이선싱 분쟁에 중요한 선례가 될 전망이다."
+      "published": "2026-04-10 09:00",
+      "summary": "독일 연방대법원(BGH)이 VoiceAge EVS 대 HMD Global 사건에서 표준필수특허(SEP) 실시자의 FRAND 방어 기준을 명확히 했다. 법원은 EU 사법재판소의 SEP 프레임워크를 엄격히 순차 적용하는 것을 거부하면서도, HMD Global이 성실한 라이선스 의사를 보이지 않았다고 판단해 패소를 확정했다. 이 판결은 글로벌 SEP/FRAND 분쟁의 핵심 기준을 제시한 것으로 평가된다."
     },
     {
-      "title": "NPE(특허괴물), 삼성·SK하이닉스 대상 HBM 특허 소송 압박 강화",
-      "url": "https://www.trendforce.com/news/2026/03/17/news-npe-patent-trolls-reportedly-turn-up-pressure-on-samsung-and-sk-hynix-amid-hbm-boom/",
-      "source": "TrendForce",
-      "published": "2026-04-04",
-      "summary": "삼성과 SK하이닉스가 HBM 시장에서 경쟁하는 가운데 NPE의 특허 소송 압박이 강화되고 있다.\n삼성은 2024년 미국에서 86건의 특허 소송을 당했으며, Netlist와의 분쟁에서 4억2,100만 달러 배상 판결을 받았다.\nSK하이닉스도 Monolithic 3D로부터 HBM·3D NAND 관련 특허 침해 소송을 제기받았으며,\n증가하는 소송 위험이 R&D 투자를 저해할 수 있다는 우려가 나오고 있다."
-    },
-    {
-      "title": "엘프바(ELFBAR), 미국 법원 합의로 'ELF' 상표권 분쟁 종결",
-      "url": "https://www.medipharmhealth.co.kr/news/article.html?no=115196",
-      "source": "메디팜헬스뉴스",
-      "published": "2026-04-04",
-      "summary": "엘프바가 VPR Brands와 3년간 이어진 'ELF' 상표권 분쟁을 미국 법원 합의로 종결했다.\n미국, 캐나다, 영국, EU 등 주요 시장에서 VPR이 모든 소송과 이의 제기를 철회하기로 했다.\nVPR은 'ELF' 상표 관련 전자담배 제품의 제조·마케팅을 중단하고 권리를 포기하기로 합의했으며,\n이로써 엘프바의 글로벌 상표권이 재확인되었다."
-    },
-    {
-      "title": "한국, 유럽특허청 출원 9.5% 증가… 배터리 분야 세계 점유율 35%",
-      "url": "https://www.prnewswire.co.uk/news-releases/epo-technology-dashboard-2025-republic-of-korea-nears-10-growth-amidst-record-demand-for-european-patents-302731594.html",
-      "source": "PR Newswire / EPO",
-      "published": "2026-04-04",
-      "summary": "한국 혁신가들이 2025년 유럽특허청(EPO)에 14,355건의 특허를 출원해 전년 대비 9.5% 증가했다.\n상위 10개국 중 두 번째로 빠른 성장률을 기록하며 세계 5위를 유지했다.\n배터리 기술 분야에서 34.9% 성장, 세계 점유율을 22%에서 35%로 확대했으며,\n삼성과 LG가 전체 출원의 68%를 차지했다."
-    },
-    {
-      "title": "제약 특허 절벽 본격화… 2026~2032년 3,000억 달러 매출 영향",
-      "url": "https://www.labiotech.eu/best-biotech/pharma-patent-cliff/",
-      "source": "Labiotech",
-      "published": "2026-04-04",
-      "summary": "2026년부터 2032년까지 블록버스터 의약품들의 특허가 대거 만료되는 '특허 절벽'이 본격화된다.\n키트루다, 엘리퀴스 등 주요 약품이 포함되며, 최대 3,000억 달러의 매출에 영향을 미칠 전망이다.\n미국 시장만 2025~2030년 사이 2,300억 달러 이상의 매출 감소가 예상되며,\n제약사들의 M&A 활동이 활발해질 것으로 보인다."
-    },
-    {
-      "title": "중국, 한국 브랜드 무단 상표 선점 5년간 1만건 돌파",
-      "url": "https://www.mt.co.kr/industry/2026/03/30/2026032914580381489",
-      "source": "머니투데이",
-      "published": "2026-04-04",
-      "summary": "최근 5년간 중국에서 한국 K브랜드를 무단 선점한 의심 상표가 1만건을 넘어섰다.\n지난해 중국과의 상표권 분쟁 140건 중 138건은 한국 기업이 중국 기업을 제소한 것이다.\n지식재산처는 현지 실태조사·단속 강화, 경고장 발송 등에 94억원을 편성했으며,\nK브랜드 보호를 위한 국제 협력도 강화하고 있다."
-    },
-    {
-      "title": "'인공지능 3강 도약 실현', 선도기업에 연간 1,000억원 이상 투입",
-      "url": "https://dazabi.com/insurance_magazine/article.php?id=12318",
-      "source": "다자비 보험AI뉴스",
-      "published": "2026-04-04",
-      "summary": "지식재산처가 AI 분야 선도기업의 국제적 성장을 지원하는 정책을 발표했다.\nIP 평가 및 가치화 컨설팅, 해외 특허 출원 비용 보조, 국제 IP 분쟁 대응 펀드 조성 등을 지원한다.\n2026년부터 2030년까지 5년간 연간 1,000억원 이상을 투입해 100개 이상의 선도기업을 육성할 방침이며,\n기업들은 지식재산처 온라인 플랫폼을 통해 신청 가능하다."
-    },
-    {
-      "title": "지식재산처, 부산 지역 특허 격차 해소 위한 라운드테이블 개최",
-      "url": "https://www.seoulz.com/busan-ip-support-korea-closes-the-patent-gap/",
-      "source": "Seoulz",
-      "published": "2026-04-04",
-      "summary": "서울·경기가 국내 특허출원의 약 65%를 차지하는 반면, 부산·경남은 10분의 1 수준에 불과하다.\n지식재산처는 이 격차를 해소하기 위해 부산에서 정책 라운드테이블을 개최했다.\nIP 연계 R&D 전략 지원과 140만 건 글로벌 특허 DB 접근을 제공하는 'IP 데이터 기프트' 제도를 추진하며,\n해양, 조선, 물류 자동화 산업에 지역 IP 인프라 구축을 집중 지원한다."
-    },
-    {
-      "title": "한국 특허법 개정, 수출을 침해 행위에 포함… 징벌적 배상 5배",
-      "url": "https://www.iam-media.com/review/the-patent-litigation-review/2026/article/south-korea-inclusion-of-exports-under-infringing-acts-in-patent-act-and-key-court-decisions-set-improve-enforcement-landscape",
-      "source": "IAM Media",
-      "published": "2026-04-04",
-      "summary": "2025년 7월 발효된 한국 특허법 개정안이 수출을 특허 침해 행위 정의에 포함시켰다.\n의도적 침해 시 실제 손해의 최대 5배까지 징벌적 손해배상을 청구할 수 있게 되었다.\n외국 당사자를 위한 국제 패널 제도가 도입되어 공정한 심리가 가능해졌으며,\n선택 발명의 특허성 기준도 완화되었다."
+      "title": "바이오 코리아 2026 사전등록 마감 앞두고 열기 고조…20여개국 270여 기업 참여",
+      "url": "https://www.seoul.co.kr/news/economy/2026/04/10/20260410500155",
+      "source": "서울신문",
+      "published": "2026-04-10 16:00",
+      "summary": "4월 28~30일 서울 코엑스에서 열리는 '바이오 코리아 2026' 행사의 사전등록 마감(4/17)이 다가오면서 참가 열기가 고조되고 있다. 20여개국 270여 기업이 참여해 바이오헬스 기술과 서비스를 선보일 예정이며, 바이오시밀러·신약 특허 전략과 IP 라이선싱 관련 세션도 마련된다. 2026년 글로벌 특허 절벽 시대에 K-바이오의 경쟁력을 점검하는 주요 행사로 주목받고 있다."
     }
   ]
 }

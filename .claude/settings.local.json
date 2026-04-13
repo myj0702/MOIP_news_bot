@@ -39,7 +39,15 @@
       "WebFetch(domain:www.biotimes.co.kr)",
       "Bash(git fetch:*)",
       "Bash(where claude:*)",
-      "Bash(grep -E \"\\\\.\\(py|json|txt|md|yaml|yml\\)$\")"
+      "Bash(grep -E \"\\\\.\\(py|json|txt|md|yaml|yml\\)$\")",
+      "Bash(chcp)",
+      "Bash(powershell.exe:*)",
+      "Bash(cmd:*)",
+      "Bash(powershell:*)",
+      "Bash(gh api:*)",
+      "Bash(where gh:*)",
+      "Bash(git stash:*)",
+      "Bash(git checkout:*)"
     ]
   }
 }

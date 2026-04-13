@@ -3,7 +3,7 @@ chcp 65001 >nul
 setlocal
 
 :: 프로젝트 경로
-set PROJECT_DIR=C:\claudeCode\Moip_news_bot
+set PROJECT_DIR=C:\claudecode\moip_news_bot
 
 :: Anaconda PATH 설정
 set PATH=C:\anaconda3\Library\bin;%PATH%
