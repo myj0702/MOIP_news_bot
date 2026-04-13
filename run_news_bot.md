@@ -70,10 +70,11 @@
 38. "ITC section 337 investigation Korea"
 
 ### 검색 시 참고할 주요 언론사
-- **국내 일간지**: 조선일보, 중앙일보, 동아일보, 한국경제, 매일경제, 서울경제, 한겨레, 경향신문, 전자신문, 디지털타임스
-- **국내 방송사**: KBS, MBC, SBS, YTN, 연합뉴스
-- **국내 전문지**: 특허뉴스, 법률신문, 더벨, IT조선
-- **해외 주요 외신**: Reuters, Bloomberg, AP, Financial Times, Wall Street Journal, Nikkei Asia, The Guardian
+- **국내 일간지**: 조선일보, 중앙일보, 동아일보, 한국경제, 매일경제, 서울경제, 한겨레, 경향신문, 전자신문, 디지털타임스, 파이낸셜뉴스, 헤럴드경제, 아시아경제, 대한경제, 세계일보, 이투데이, 이데일리, 한국일보, 브릿지경제, 내일신문, 머니투데이, PAX경제, 쿠키뉴스
+- **국내 통신사**: 연합뉴스, 뉴시스, 뉴스1
+- **국내 방송사**: KBS, MBC, SBS, SBS Biz, YTN, TJB, 채널A, 노컷뉴스
+- **국내 전문지**: 특허뉴스, IP데일리, 법률신문, 더벨, IT조선
+- **해외 주요 외신**: Reuters, Bloomberg, AP, Financial Times, Wall Street Journal, Nikkei Asia, The Guardian, BBC, CNN, The New York Times, The Washington Post, The Economist, CNBC, Forbes, The Japan Times
 - **해외 IP 전문 매체**: IAM Media, Managing IP, WIPR, Patent Docs, IPWatchdog, Lexology, JUVE Patent
 
 ### 게재 시점 기준
@@ -97,7 +98,7 @@
 - **면세점 특허 관련 뉴스는 제외**하세요 (면세점, 면세 특허, duty-free, duty free 등)
 - 중복 기사는 제거하세요 (같은 사안의 기사가 여러 언론사에 있으면 가장 상세한 것 1개만)
 - 각 뉴스의 제목, URL, 출처(언론사명), 게재 시점(날짜+시간), 요약(3~5줄)을 정리하세요
-- 지식재산처 보도자료뿐 아니라 **국내외 주요 언론사**(연합뉴스, 한경, 매일경제, 전자신문, Reuters, Bloomberg 등) 기사를 적극 포함하세요
+- 지식재산처 보도자료뿐 아니라 **국내외 주요 언론사**(연합뉴스, 뉴시스, 한경, 매일경제, 전자신문, 헤럴드경제, 파이낸셜뉴스, Reuters, Bloomberg, AP 등) 기사를 적극 포함하세요
 
 ## 2단계: JSON 저장
 
