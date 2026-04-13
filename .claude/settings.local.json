@@ -37,7 +37,9 @@
       "WebFetch(domain:www.pharmstoday.com)",
       "WebFetch(domain:ipwatchdog.com)",
       "WebFetch(domain:www.biotimes.co.kr)",
-      "Bash(git fetch:*)"
+      "Bash(git fetch:*)",
+      "Bash(where claude:*)",
+      "Bash(grep -E \"\\\\.\\(py|json|txt|md|yaml|yml\\)$\")"
     ]
   }
 }
