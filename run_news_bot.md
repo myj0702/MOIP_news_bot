@@ -28,46 +28,33 @@
 ### 검색 쿼리 목록 (모두 실행)
 
 #### 한국어 쿼리
-1. "지식재산처" (보도자료, 정책 동향)
-2. "특허 뉴스" (특허권, 특허출원, 특허등록, 특허분쟁, 특허판결, 특허심판)
-3. "실용신안" (실용신안 출원, 등록, 분쟁)
-4. "상표 분쟁 OR 상표침해 OR 브랜드 분쟁 OR 서비스표"
-5. "디자인권 OR 디자인보호 OR 디자인등록 OR 디자인침해"
-6. "PCT 국제출원 OR 국제특허출원"
-7. "특허침해 OR 특허소송 OR 침해금지 OR 손해배상 특허"
-8. "발명 뉴스" (발명특허, 직무발명, 발명대회, 발명진흥, 선사용권)
-9. "지식재산 정책 OR 지재권 정책 OR 산업재산권 정책" (IP 정책, 법률 개정)
-10. "영업비밀 침해 OR 영업비밀 유출 OR 기술유출 OR 기술 탈취"
-11. "특허청 OR 지식재산처" (해외 각국 특허청 동향)
-12. "반도체 특허 OR 반도체 지식재산"
-13. "AI 특허 OR 인공지능 특허 OR AI 지식재산"
-14. "바이오 특허 OR 제약 특허 OR 의약품 특허"
-15. "표준특허 OR SEP OR FRAND"
-16. "특허 무효심판 OR 권리범위확인 OR 정정심판 OR 특허심판원"
-17. "특허 라이선스 OR 기술이전 OR 실시권 OR 로열티 OR 기술료"
-18. "특허 트롤 OR NPE OR PAE OR 비실시 특허"
-19. "지재권 분쟁 OR IP 분쟁 OR 특허법원 OR 대법원 특허"
-20. "부정경쟁행위 OR 부정경쟁방지법 OR 트레이드 드레스"
+1. "특허"
+2. "상표"
+3. "디자인권"
+4. "발명"
+5. "지식재산"
+6. "침해"
+7. "분쟁"
+8. "소송"
+9. "영업비밀"
+10. "부정경쟁"
+11. "기술유출"
+12. "라이선스 OR 로열티"
+13. "심판"
+14. "표준특허"
+15. "위조 OR 짝퉁"
 
 #### 영어 쿼리
-21. "patent news Korea"
-22. "IP lawsuit Korea"
-23. "Korea intellectual property"
-24. "patent infringement Korea"
-25. "trademark dispute Korea"
-26. "trade secret Korea"
-27. "WIPO PCT international patent"
-28. "EPO patent application Korea"
-29. "USPTO patent Korea"
-30. "patent litigation Samsung LG SK Hyundai"
-31. "standard essential patent SEP FRAND"
-32. "pharmaceutical patent drug patent"
-33. "semiconductor patent chip IP"
-34. "AI patent artificial intelligence IP"
-35. "IP policy regulation 2026"
-36. "patent troll NPE PAE Korea"
-37. "IP licensing royalty technology transfer Korea"
-38. "ITC section 337 investigation Korea"
+16. "patent Korea"
+17. "trademark Korea"
+18. "IP litigation Korea"
+19. "trade secret Korea"
+20. "NPE patent troll"
+21. "WIPO PCT"
+22. "USPTO Korea"
+23. "ITC 337 Korea"
+24. "SEP FRAND"
+25. "semiconductor AI patent"
 
 ### 검색 시 참고할 주요 언론사
 - **국내 일간지**: 조선일보, 중앙일보, 동아일보, 한국경제, 매일경제, 서울경제, 한겨레, 경향신문, 전자신문, 디지털타임스, 파이낸셜뉴스, 헤럴드경제, 아시아경제, 대한경제, 세계일보, 이투데이, 이데일리, 한국일보, 브릿지경제, 내일신문, 머니투데이, PAX경제, 쿠키뉴스
