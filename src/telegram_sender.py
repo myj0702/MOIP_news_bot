@@ -99,7 +99,7 @@ def main():
     time_range = data.get("time_range", "")
     articles = data.get("articles", [])
 
-    header_lines = [f"📰 *{keywords} 뉴스* ({date})"]
+    header_lines = [f"📰 *지식재산 뉴스 by Claude Code CLI* ({date})"]
     if time_range:
         header_lines.append(f"🕐 수집 범위: {time_range}")
     header_lines.append("")

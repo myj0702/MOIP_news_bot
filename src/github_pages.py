@@ -16,7 +16,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ keywords }} 뉴스 - {{ date }}</title>
+    <title>지식재산 뉴스 by Claude Code CLI - {{ date }}</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f5f5f5; }
         h1 { color: #333; border-bottom: 2px solid #007bff; padding-bottom: 10px; }
@@ -33,7 +33,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <h1>{{ keywords }} 뉴스</h1>
+    <h1>지식재산 뉴스 by Claude Code CLI</h1>
     <div class="meta">
         <div>{{ date }}</div>
         {% if time_range %}
@@ -50,7 +50,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         <p class="summary">{{ article.summary }}</p>
     </div>
     {% endfor %}
-    <footer>자동 생성 by MOIP News Bot</footer>
+    <footer>자동 생성 by Claude Code CLI</footer>
 </body>
 </html>"""
 

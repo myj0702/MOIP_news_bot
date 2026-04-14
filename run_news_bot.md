@@ -123,7 +123,15 @@
 
 - `time_range`은 실제 검색 범위를 기재 (예: "4/5(토) 00:00 이후" 또는 "4/4(금) 18:00 이후")
 
-## 3단계: 텔레그램 발송
+## 3단계: 날짜 검증
+
+다음 명령어를 실행하여 기준일 이전 기사를 자동 제거하세요:
+
+```bash
+export PATH="/c/anaconda3/Library/bin:$PATH" && python src/date_filter.py news_data.json
+```
+
+## 4단계: 텔레그램 발송
 
 다음 명령어를 실행하세요:
 
@@ -131,7 +139,7 @@
 export PATH="/c/anaconda3/Library/bin:$PATH" && python src/telegram_sender.py news_data.json
 ```
 
-## 4단계: GitHub Pages 업데이트
+## 5단계: GitHub Pages 업데이트
 
 다음 명령어를 실행하세요:
 
